@@ -1,25 +1,11 @@
-# README
+Welcome!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I'm building this app to help me keep track of all the loot and real estate gathered in my D&D campaign now running over two years strong. 
 
-Things you may want to cover:
+Using this Rails --API backend  I will keep track of my character's Bag of Holding, as well as deeds to various properties and weath stored in each property. 
 
-* Ruby version
+Current values and weight will be kept standard using one of the available DND 5e apis, which I will document after I decide which one to use. 
 
-* System dependencies
+This is open source so please feel free to clone anything you like. If you would like to reach out, shoot me an email at joshuagauthreaux@gmail.com, or you can reach me through my website, joshgotro.com. 
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# NicoPack
+Thanks!
